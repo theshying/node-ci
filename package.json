@@ -1,0 +1,14 @@
+{
+  "name": "node-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theshy",
+  "license": "ISC",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
+}
